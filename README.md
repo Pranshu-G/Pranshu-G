@@ -4,7 +4,7 @@
 * 🌱 Passionate about building software and learning new skills.
 * :computer: Enjoy working in open source.
 * 🏆 Currently learning app development in Kotlin using Jetpack Compose.
-* ⚡ My hobbies include brewing coffee and reading books.  
+* ⚡ Hobbies include brewing coffee and reading books.  
 
 
 
